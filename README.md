@@ -1,9 +1,8 @@
 # Desafio básico de Java
----
+
 Exercício de prática com Scanner e entrada de dados.
 
 ## Exercício de conta bancária
----
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
@@ -21,7 +20,3 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
-
----
-Exercício criado por [Gleyson Sampaio](https://github.com/glysns).
-Apresentado no **Santander 2024 - Backend com Java** através da [DIO](dio.me).
